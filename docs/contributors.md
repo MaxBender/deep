@@ -75,3 +75,5 @@ and Applied Math and Cognitive Science.
 **Angie Chen**: Sophomore at Martel studying Computer Science. I enjoy running, playing piano, and watching Survivor.
 
 **Kyle Manning**: Junior at Duncan studying Statistics and Economics.
+
+**Max Bender**: Brown, Sophomore, COMP + DSCI. I got to work with sports and business data over the summer, and I'd like to continue during the semester!
